@@ -11,7 +11,7 @@ mixer.music.load("sound.mp3") #add your music file name or path
 screen = turtle.Screen()
 
 screen.bgcolor('#000')
-screen.title("Happy new year 2022")
+screen.title("Happy new year 2024")
 screen.screensize(800,800)
 
 mixer.music.play()
