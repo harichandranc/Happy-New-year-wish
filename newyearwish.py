@@ -64,7 +64,7 @@ text = turtle.Turtle()
 text.color("#fff")
 text.penup()
 text.setpos(0,-240)
-text.write("Happy New Year 2023", True, align="center", font=("Monsterrat", 20, "normal"))
+text.write("Happy New Year 2024", True, align="center", font=("Monsterrat", 20, "normal"))
 text.setpos(0,-260)
 
 screen.mainloop()
